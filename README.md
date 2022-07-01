@@ -1,5 +1,6 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-Link to live website
+
+Link to live website: https://awoyalejohn.github.io/Whiskey-Drop/
 
 Welcome Awoyalejohn,
 
